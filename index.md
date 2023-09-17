@@ -1,91 +1,94 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ahmed Soussi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ahmed Soussi
+Student in Computer Engineering
+ESIEE Paris, France
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ahmed@example.com">ahmed@example.com</a> |
+<a href="https://www.linkedin.com/in/ahmedsoussi">LinkedIn Profile</a>
 </div>
 
+## Objective
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Seeking a 1.5 to 2-year internship in the field of software/web development.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - Present`
+__ESIEE Paris, France__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Currently pursuing a degree in Computer Engineering.
 
-- Sizar
+`2016 - 2019`
+__Institut Galilée, Université Sorbonne Paris Nord__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelor's Degree in Computer Science.
 
-- Fellow
+## Professional Experience
 
+`2022 - Present`
+__Orange, France__
 
+- Python Developer for mobile network automation and optimization (3G, 4G, 5G).
+- Developed tools to improve network operational efficiency.
 
-## Awards
+## Skills
 
-`2012`
-President, *Royal Society*, London, UK
+### Front-end
 
-Associate, *French Academy of Science*, Paris, France
+- React.js
+- Solid.js
+- Electron.js
+- Vue.js
+- Angular.js
+- Next.js
 
+### UI
 
+- Bootstrap
+- Tailwind CSS
+- Bulma
 
-## Publications
+### Back-end
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Python (Django)
+- Java (Spring Boot, Helidon, Quarkus, Hibernate)
+- C# (ASP.NET)
+- Node.js (Express.js)
 
-### Journals
+### Additional Skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- C/C++
+- GIT
+- Linux System Administration
+- GitHub
+- GitLab
 
-`1669`
-Lectiones opticæ.
+### Databases
 
-etc. etc. etc.
+- MySQL
+- PostgreSQL
+- SQLite
+- NoSQL
 
-### Patents
+## Languages
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- French: Fluent
+- English: Fluent
+- Arabic: Fluent
+- Kabyle: Native Language
 
+## Interests
 
-## Occupation
+- Open source projects
+- Personal application development
+- Competitive programming
+- Hiking and outdoor sports
 
-`1600`
-__Royal Mint__, London
+## References
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Available upon request.
