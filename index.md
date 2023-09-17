@@ -8,7 +8,8 @@ title: CV d'Ahmed Soussi
 ESIEE Paris, France
 
 <div id="webaddress">
-<a href="mailto:ahmed@example.com">ahmed@example.com</a> |
+<a href="mailto:soussiahmed62@gmail.com">soussiahmed62@gmail.com</a> |
+<a href="tel:+33698107162">Téléphone: +33 6 98 10 71 62</a> | 
 <a href="https://www.linkedin.com/in/ahmedsoussi">Profil LinkedIn</a>
 </div>
 
@@ -84,10 +85,10 @@ __Orange, France__
 
 ## Centres d'Intérêt
 
-- Projets open source
 - Développement d'applications personnelles
-- Programmation compétitive
-- Randonnée et sports en plein air
+- Musculation
+- Cinéma
+- Littérature
 
 ## Références
 
