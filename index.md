@@ -10,7 +10,7 @@ ESIEE Paris, France
 <div id="webaddress">
 <a href="mailto:soussiahmed62@gmail.com">soussiahmed62@gmail.com</a> |
 <a href="tel:+33698107162">Téléphone: +33 6 98 10 71 62</a> | 
-<a href="https://www.linkedin.com/in/ahmedsoussi">Profil LinkedIn</a>
+<a href="https://www.linkedin.com/in/ahmed-soussi-b4281720b">Profil LinkedIn</a>
 </div>
 
 ## Objectif
