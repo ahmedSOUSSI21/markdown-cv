@@ -1,42 +1,42 @@
 ---
 layout: cv
-title: Ahmed Soussi's CV
+title: CV d'Ahmed Soussi
 ---
 
 # Ahmed Soussi
-Student in Computer Engineering
+Étudiant en Génie Informatique spécialisé dans le logiciel
 ESIEE Paris, France
 
 <div id="webaddress">
 <a href="mailto:ahmed@example.com">ahmed@example.com</a> |
-<a href="https://www.linkedin.com/in/ahmedsoussi">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/ahmedsoussi">Profil LinkedIn</a>
 </div>
 
-## Objective
+## Objectif
 
-Seeking a 1.5 to 2-year internship in the field of software/web development.
+Recherche d'une alternance de 1,5 à 2 ans dans le domaine du développement logiciel/web.
 
-## Education
+## Formation
 
-`2019 - Present`
+`2022 - 2025`
 __ESIEE Paris, France__
 
-- Currently pursuing a degree in Computer Engineering.
+- Actuellement en cours de préparation d'un diplôme en Génie Informatique avec une spécialisation en développement logiciel.
 
-`2016 - 2019`
+`2019 - 2022`
 __Institut Galilée, Université Sorbonne Paris Nord__
 
-- Bachelor's Degree in Computer Science.
+- Licence en Informatique.
 
-## Professional Experience
+## Expérience Professionnelle
 
-`2022 - Present`
+`Depuis septembre 2022`
 __Orange, France__
 
-- Python Developer for mobile network automation and optimization (3G, 4G, 5G).
-- Developed tools to improve network operational efficiency.
+- Développeur Python pour l'automatisation et l'optimisation des réseaux mobiles (3G, 4G, 5G).
+- Conception d'outils visant à améliorer l'efficacité opérationnelle des réseaux.
 
-## Skills
+## Compétences
 
 ### Front-end
 
@@ -47,7 +47,7 @@ __Orange, France__
 - Angular.js
 - Next.js
 
-### UI
+### Interface Utilisateur (UI)
 
 - Bootstrap
 - Tailwind CSS
@@ -60,35 +60,35 @@ __Orange, France__
 - C# (ASP.NET)
 - Node.js (Express.js)
 
-### Additional Skills
+### Compétences Additionnelles
 
 - C/C++
 - GIT
-- Linux System Administration
+- Administration Système Linux
 - GitHub
 - GitLab
 
-### Databases
+### Bases de Données
 
 - MySQL
 - PostgreSQL
 - SQLite
 - NoSQL
 
-## Languages
+## Langues
 
-- French: Fluent
-- English: Fluent
-- Arabic: Fluent
-- Kabyle: Native Language
+- Français : Courant
+- Anglais : Courant
+- Arabe : Courant
+- Kabyle : Langue Maternelle
 
-## Interests
+## Centres d'Intérêt
 
-- Open source projects
-- Personal application development
-- Competitive programming
-- Hiking and outdoor sports
+- Projets open source
+- Développement d'applications personnelles
+- Programmation compétitive
+- Randonnée et sports en plein air
 
-## References
+## Références
 
-Available upon request.
+Disponibles sur demande.
